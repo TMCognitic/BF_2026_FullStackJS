@@ -1,0 +1,25 @@
+﻿<svg xmlns="http://www.w3.org/2000/svg" width="750" height="1050" viewBox="0 0 750 1050">
+
+  <rect x="40" y="40" 
+        width="670" height="970"
+        rx="40" ry="40"
+        fill="white" stroke="black" stroke-width="8" />
+
+  <text x="70" y="130"
+        font-family="'Times New Roman', serif" font-size="90" fill="red">8</text>
+  <text x="75" y="220"
+        font-family="'Times New Roman', serif" font-size="90" fill="red">♦</text>
+
+  <g transform="rotate(180 680 920)">
+    <text x="675" y="1010"
+          font-family="'Times New Roman', serif" font-size="90" fill="red">♦</text>
+    <text x="680" y="920"
+          font-family="'Times New Roman', serif" font-size="90" fill="red">8</text>    
+  </g>
+<text x="375" y="300"
+        font-family="'Times New Roman', serif" font-size="220"
+        text-anchor="middle" fill="red">♦</text>
+<text x="375" y="810"
+        font-family="'Times New Roman', serif" font-size="220"
+        text-anchor="middle" fill="red">♦</text>
+</svg>

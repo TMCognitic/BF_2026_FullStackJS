@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link href="./css/site.css" rel="stylesheet" />
+    <script defer src="scripts/tableau.js"></script>
+    <title>Tableau trié</title>
+</head>
+<body>
+    <div>
+        <h1>Old version</h1>
+        <p id="oldResult"></p>
+        <button id="play" onclick="play()">Play</button>
+    </div>
+
+    <div>
+        <h1>New version</h1>
+        <form id="form">
+            <label id="textLabel">Entrer le nombre d'élements du tableau :</label>
+            <label id="errorLabel" class="error"></label>
+            <br />
+            <input type="number" id="valueInput" />
+            <br />
+            <input type="submit" id="submitButton" />
+        </form>    
+        <ul id="result">
+        </ul>            
+    </div>
+</body>
+</html>
