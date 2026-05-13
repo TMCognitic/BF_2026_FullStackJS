@@ -50,3 +50,22 @@ Bonus :
   + L'input et le bouton sont déactivé.
 + Ajouter un bouton reset, qui restaure l'etat du site
 
+# 03 Gestion des String
+
+Sur base de la chaine de caractere suivantes_
+« Développeur Fullstack JavaScript à DigitalCity ! », obtenir :
+
+```javascript
+const msg = 'Développeur Fullstack JavaScript à DigitalCity !'
+```
+
++ L'index du dernier caractere « a »
++ La position (humain) du texte « Java »
++ Remplacer « DigitalCity » par « Bruxelles Formation »
++ Supprimer le texte « Script » à JavaScript
++ Obtenir un tableau avec chaque mots de la phrase (mais sans prendre le « à ») => ["Développeur", "Fullstack", "JavaScript", "DigitalCity"]
+
+Exercices Bonus :
+
++ Inverser la chaine de caractere 🤯
++ Récuperer le 3e mot de la phrase et le mettre en majuscule (pour l'Azerbaïdjan)
