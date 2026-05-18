@@ -100,14 +100,14 @@ Sur base de la chaine de caractere suivantes_
 « Développeur Fullstack JavaScript à DigitalCity ! », obtenir :
 
 ```javascript
-const msg = 'Développeur Fullstack JavaScript à DigitalCity !'
+const msg = 'Développeur Fullstack JavaScript à Bruxelles Formation !'
 ```
 
 + L'index du dernier caractere « a »
 + La position (humain) du texte « Java »
-+ Remplacer « DigitalCity » par « Bruxelles Formation »
++ Remplacer « Bruxelles Formation » par « DigitalCity »
 + Supprimer le texte « Script » à JavaScript
-+ Obtenir un tableau avec chaque mots de la phrase (mais sans prendre le « à ») => ["Développeur", "Fullstack", "JavaScript", "DigitalCity"]
++ Obtenir un tableau avec chaque mots de la phrase (mais sans prendre le « à ») => ["Développeur", "Fullstack", "JavaScript", "DigitalCity", "Bruxelles", "Formation"]
 
 Exercices Bonus :
 
