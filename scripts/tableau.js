@@ -1,4 +1,3 @@
-
 function play() {
     const result = document.getElementById("oldResult");
     console.clear();

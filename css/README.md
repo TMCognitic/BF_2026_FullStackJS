@@ -105,7 +105,7 @@ Fonctionnalité :
 
 Bonus :
 
-+ Afficher la phrase suivante : « Nous sommes le 8 décembre 2023, il reste 17 jours avant Noël ! »
++ Afficher la phrase suivante : « Nous sommes le 8 décembre 2023, Il reste 225 jours 11 heures 45 minutes 46 secondes avant Noël ! »
 
 ## 06 Gestion des String
 
@@ -165,3 +165,7 @@ Créer un gestionnaire de contacts.
 Permettre à un utilisateur d'encoder le nom, le prénom, l'email et le numéro de téléphone.
 
 Pour chaque ajout, on ajoute une DIV à la page présentant au format carte les infos du contact.
+
+Attention le contact ne doit pas être ajouté en doublon.
+
+L'exercice à pour but d'utiliser le DOM, de ce fait pas de collection stockant les utilisateurs, seul le DOM doit être pris en compte.
