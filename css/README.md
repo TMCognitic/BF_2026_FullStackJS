@@ -168,4 +168,4 @@ Pour chaque ajout, on ajoute une DIV à la page présentant au format carte les 
 
 Attention le contact ne doit pas être ajouté en doublon.
 
-L'exercice à pour but d'utiliser le DOM, de ce fait pas de collection stockant les utilisateurs, seul le DOM doit être pris en compte.
+L'exercice à pour but d'utiliser le DOM, de ce fait pas de collection stockant les contact, seul le DOM doit être pris en compte.
