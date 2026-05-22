@@ -172,4 +172,5 @@ Pour chaque ajout, on ajoute une DIV à la page présentant au format carte les 
 + Demandez à l'utilisateur d'entrer un nombre 'x' et calculez les 'x' premiers nombres premier
 + Demandez à l'utilisateur d'encoder un nombre et demandez lui de choisir une base (2, 8, 16) et convertissez ce nombre dans la base de destination. Le résultat doit être mis dans un champs texte en lecture seule.
 + Demandez à l'utilisateur d'encoder un nombre en base (2, 8, 16) et convertissez ce nombre dans la base 10 (décimale). Le résultat doit être mis dans un champs texte en lecture seule.
++ Comme en primaire, réalisez l'addition de deux nombres.
 + Bonus : réalisez un convertisseur de base (2 à 36) à base (2 à 36), la base de destination doit-être différente de la base de départ. Le résultat doit être mis dans un champs texte en lecture seule.
