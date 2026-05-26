@@ -174,3 +174,9 @@ Pour chaque ajout, on ajoute une DIV à la page présentant au format carte les 
 + Demandez à l'utilisateur d'encoder un nombre en base (2, 8, 16) et convertissez ce nombre dans la base 10 (décimale). Le résultat doit être mis dans un champs texte en lecture seule.
 + Comme en primaire, réalisez l'addition de deux nombres.
 + Bonus : réalisez un convertisseur de base (2 à 36) à base (2 à 36), la base de destination doit-être différente de la base de départ. Le résultat doit être mis dans un champs texte en lecture seule.
+
+## 10 Fonctions Timers et Interval
+
++ Faire le jeu du MEMORY : placer des paires d'images/cartes de même taille sur un plateau de 13 * 4 et retrouvez les paires de cartes/images.
+Le joueur clique sur une image, ce qui l'affiche, ensuite il en choisi une deuxième qu'on affiche également. si les images sont les mêmes, on les supprime de l'affichage, si elles sont différentes on les masques après 2 secondes. il faut un compteur de coups.
++ Faire le jeu du simon : Le jeu du simon, le plateau offre 4 couleurs jaune, vert, bleu et rouge. Le jeu fait évoluer une sequence de couleurs de 2 à 10. la séquence est affichée par la mise en avant des couleurs de la séquence. Si le joueur réussi à répèter la séquence, le jeu ajoute une couleur à la séquence précédente et le tour reprend, si le joueur se trompe ou prend trop de temps (> 7 secondes) avant de commencer de répèter la séquence, le jeu relance la séquence. [le jeu du simon youtube](https://www.youtube.com/shorts/O2diIQAA5mc)
